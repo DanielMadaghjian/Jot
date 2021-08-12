@@ -30,7 +30,7 @@
                         </div>
 
                         <div class="relative pt-2">
-                            <label for="password" class="pl-2 uppercase text-blue-500 font-bold absolute">{{ __('Password') }}</label>
+                            <label for="password" class="pl-2 uppercase text-blue-400 font-bold absolute">{{ __('Password') }}</label>
 
                             <div class="">
                                 <input id="password" type="password" class="w-full pt-8 pb-2 pl-2 text-gray-100  outline-none focus:bg-blue-700 " name="password" autocomplete="current-password" placeholder="Password">
