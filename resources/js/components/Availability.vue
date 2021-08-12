@@ -4,7 +4,7 @@
     <b-form-group  label="Availability" class="text-blue-500 pt-2 uppercase text-xs font-bold static " v-slot="{ ariaDescribedby }">
         
       <b-form-checkbox-group 
-        class = "text-gray-400  capitalize text-xs"
+        class = "text-gray-450  capitalize text-xs"
         v-model="selected"
         :options="options"
         :aria-describedby="ariaDescribedby"
